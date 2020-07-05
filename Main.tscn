@@ -249,8 +249,8 @@ window_title = "Open a File"
 resizable = true
 mode = 0
 access = 2
-current_dir = "/home/raptor/program/godot/signum/Signum"
-current_path = "/home/raptor/program/godot/signum/Signum/"
+current_dir = "C:/Users/Slooth/Documents/GitHub/Signum-Fork"
+current_path = "C:/Users/Slooth/Documents/GitHub/Signum-Fork/"
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -267,8 +267,8 @@ margin_bottom = 204.416
 popup_exclusive = true
 resizable = true
 access = 2
-current_dir = "/home/raptor/program/godot/signum/Signum"
-current_path = "/home/raptor/program/godot/signum/Signum/"
+current_dir = "C:/Users/Slooth/Documents/GitHub/Signum-Fork"
+current_path = "C:/Users/Slooth/Documents/GitHub/Signum-Fork/"
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -296,7 +296,6 @@ margin_right = 83.0
 margin_bottom = 37.0
 custom_fonts/font = ExtResource( 2 )
 text = "File"
-items = [ "Open File", null, 0, false, false, 0, 0, null, "", false, "Save As File", null, 0, false, false, 1, 0, null, "", false, "Save File", null, 0, false, false, 4, 0, null, "", false, "New File", null, 0, false, false, 3, 0, null, "", false, "Quit", null, 0, false, false, 2, 0, null, "", false ]
 switch_on_hover = true
 __meta__ = {
 "_edit_use_anchors_": false
@@ -308,7 +307,6 @@ margin_right = 146.0
 margin_bottom = 37.0
 custom_fonts/font = ExtResource( 2 )
 text = "Help"
-items = [ "About", null, 0, false, false, 0, 0, null, "", false, "Github", null, 0, false, false, 1, 0, null, "", false, "Report a Bug", null, 0, false, false, 2, 0, null, "", false ]
 switch_on_hover = true
 __meta__ = {
 "_edit_use_anchors_": false
